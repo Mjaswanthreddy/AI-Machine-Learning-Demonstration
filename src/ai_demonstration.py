@@ -1,4 +1,4 @@
-```python
+
 import gradio as gr
 import numpy as np
 import tensorflow as tf
@@ -256,5 +256,4 @@ with gr.Blocks(title="AI Demonstration") as app:
 
 
 app.launch(share=True)
-```
 
