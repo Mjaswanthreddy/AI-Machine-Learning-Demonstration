@@ -1,0 +1,7 @@
+gradio
+numpy
+tensorflow
+torch
+scikit-learn
+transformers
+Pillow
